@@ -1,0 +1,14 @@
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.AssemblyInfoInputs.cache
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.AssemblyInfo.cs
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.csproj.CoreCompileInputs.cache
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\bin\Debug\net8.0\HuffmanCodingConsole.exe
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\bin\Debug\net8.0\HuffmanCodingConsole.deps.json
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\bin\Debug\net8.0\HuffmanCodingConsole.runtimeconfig.json
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\bin\Debug\net8.0\HuffmanCodingConsole.dll
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\bin\Debug\net8.0\HuffmanCodingConsole.pdb
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.dll
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\refint\HuffmanCodingConsole.dll
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.pdb
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\HuffmanCodingConsole.genruntimeconfig.cache
+D:\#ThucHanhMM\Huffman\HuffmanCodingConsole\HuffmanCodingConsole\obj\Debug\net8.0\ref\HuffmanCodingConsole.dll

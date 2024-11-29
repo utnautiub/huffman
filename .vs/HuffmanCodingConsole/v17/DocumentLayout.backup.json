@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#ThucHanhMM\\Huffman\\HuffmanCodingConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5998B0D1-F76D-4F28-94A7-59CD66D78B9D}|HuffmanCodingConsole\\HuffmanCodingConsole.csproj|d:\\#thuchanhmm\\huffman\\huffmancodingconsole\\huffmancodingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998B0D1-F76D-4F28-94A7-59CD66D78B9D}|HuffmanCodingConsole\\HuffmanCodingConsole.csproj|solutionrelative:huffmancodingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998B0D1-F76D-4F28-94A7-59CD66D78B9D}|HuffmanCodingConsole\\HuffmanCodingConsole.csproj|d:\\#thuchanhmm\\huffman\\huffmancodingconsole\\huffmancodingconsole\\huffmancoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998B0D1-F76D-4F28-94A7-59CD66D78B9D}|HuffmanCodingConsole\\HuffmanCodingConsole.csproj|solutionrelative:huffmancodingconsole\\huffmancoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HuffmanCoding.cs",
+              "DocumentMoniker": "D:\\#ThucHanhMM\\Huffman\\HuffmanCodingConsole\\HuffmanCodingConsole\\HuffmanCoding.cs",
+              "RelativeDocumentMoniker": "HuffmanCodingConsole\\HuffmanCoding.cs",
+              "ToolTip": "D:\\#ThucHanhMM\\Huffman\\HuffmanCodingConsole\\HuffmanCodingConsole\\HuffmanCoding.cs",
+              "RelativeToolTip": "HuffmanCodingConsole\\HuffmanCoding.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwJQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:41:58.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\#ThucHanhMM\\Huffman\\HuffmanCodingConsole\\HuffmanCodingConsole\\Program.cs",
+              "RelativeDocumentMoniker": "HuffmanCodingConsole\\Program.cs",
+              "ToolTip": "D:\\#ThucHanhMM\\Huffman\\HuffmanCodingConsole\\HuffmanCodingConsole\\Program.cs",
+              "RelativeToolTip": "HuffmanCodingConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:41:30.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
